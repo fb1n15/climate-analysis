@@ -9,4 +9,4 @@ def inches_to_mm(inches):
     mm = inches * 25.4
     return mm
 
-#TODO(Developer A): do something here
+#TODO(the-boss): Hire a new developer
